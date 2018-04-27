@@ -1,5 +1,4 @@
 
-<script>
 // Initialize tooltip component
 $(function () {
   $('[data-toggle="tooltip"]').tooltip()
@@ -24,4 +23,3 @@ $(function() {
         }, 300); 
     });
 });
-</script>
